@@ -1,1 +1,1 @@
-package org.student;
+package student;
